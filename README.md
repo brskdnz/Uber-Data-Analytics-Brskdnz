@@ -1,2 +1,4 @@
 # Uber-Data-Analytics-Brskdnz
-This project is related to data engineering tools like Bigquery, Compute Instance, Python, MageAI and data pipeline (ETL) concepts.and reverse 
+## Introduction
+Data pipeline (ETL) concepts are used with mageAI tools in this project that includes understanding of logical and physical data modelling matters (star schema),converting of JSON, CSV, parquet data formats using python programming language, and also using with linux connecting compute instance with mageAI.   
+
